@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JanuhJanuh
 - 👀 I’m interested in PHP, PYTHON Programing.
-- 🌱 I’m currently learning Working on Various PHPlaravel Project
+- 🌱 I’m currently Working on Various PHPlaravel Project
 - 💞️ I’m looking to collaborate on System and web application develeopment
 - 📫 How to reach me januh254@gmail.com  / +25470 1237 958
 - 😄 Pronouns: Highly Motivated software developer 
